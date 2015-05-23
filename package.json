@@ -1,0 +1,20 @@
+{
+    "name": "promisify",
+    "version": "1.0.0",
+    "description": "promisify asynchronous callback function",
+    "keywords": ["promise", "promisify"],
+    "homepage": "https://github.com/coolwust/promisify",
+    "author": {
+        "name": "coolwust",
+        "email": "coolwust@gmail.com"
+    },
+    "license": "MIT",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/coolwust/promisify.git"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    }
+}
