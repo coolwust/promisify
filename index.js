@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('lib/promisify.js');
+module.exports = require('./lib/promisify.js');
